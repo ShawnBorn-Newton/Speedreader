@@ -1,0 +1,9 @@
+Driver Lauren
+Driver Jarryd
+Driver Daniel
+Driver Jordan
+Trip Lauren 07:15 07:45 17.3
+Trip Lauren 06:12 06:32 21.8
+Trip Jarryd 12:01 13:16 42.0
+Trip Jordan 06:06 12:26 80.2
+Trip Jarryd 15:00 15:49 11.4
